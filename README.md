@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AbhayPatil2004/LeetCode/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/AbhayPatil2004/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
+| [0216-combination-sum-iii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0216-combination-sum-iii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AbhayPatil2004/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/AbhayPatil2004/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
+| [0216-combination-sum-iii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AbhayPatil2004/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
