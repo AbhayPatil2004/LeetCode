@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AbhayPatil2004/LeetCode/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/AbhayPatil2004/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AbhayPatil2004/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AbhayPatil2004/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AbhayPatil2004/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AbhayPatil2004/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -30,9 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AbhayPatil2004/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AbhayPatil2004/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
