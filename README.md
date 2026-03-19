@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AbhayPatil2004/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AbhayPatil2004/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
