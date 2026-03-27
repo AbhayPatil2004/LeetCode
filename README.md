@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AbhayPatil2004/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2104-sum-of-subarray-ranges](https://github.com/AbhayPatil2004/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2906-construct-product-matrix](https://github.com/AbhayPatil2004/LeetCode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhayPatil2004/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AbhayPatil2004/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AbhayPatil2004/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AbhayPatil2004/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AbhayPatil2004/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/AbhayPatil2004/LeetCode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhayPatil2004/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AbhayPatil2004/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AbhayPatil2004/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AbhayPatil2004/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AbhayPatil2004/LeetCode/tree/master/0735-asteroid-collision) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhayPatil2004/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/AbhayPatil2004/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+## Math
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhayPatil2004/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
