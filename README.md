@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AbhayPatil2004/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AbhayPatil2004/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
