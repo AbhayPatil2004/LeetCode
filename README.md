@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhayPatil2004/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhayPatil2004/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3783-mirror-distance-of-an-integer](https://github.com/AbhayPatil2004/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sliding Window
 |  |
 | ------- |
