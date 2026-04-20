@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/AbhayPatil2004/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AbhayPatil2004/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AbhayPatil2004/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AbhayPatil2004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/AbhayPatil2004/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AbhayPatil2004/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/AbhayPatil2004/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AbhayPatil2004/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AbhayPatil2004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
