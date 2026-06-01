@@ -1,8 +1,6 @@
 class Solution {
 public:
     int minimumCost(vector<int>& cost) {
-        
-        if( cost.size() == 1 ) return cost[0] ;
 
         int n = cost.size() ;
         sort( cost.begin() , cost.end() );
