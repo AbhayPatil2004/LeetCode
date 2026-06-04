@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhayPatil2004/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhayPatil2004/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbhayPatil2004/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbhayPatil2004/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AbhayPatil2004/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sliding Window
 |  |
@@ -179,4 +180,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0788-rotated-digits](https://github.com/AbhayPatil2004/LeetCode/tree/master/0788-rotated-digits) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AbhayPatil2004/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbhayPatil2004/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbhayPatil2004/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
