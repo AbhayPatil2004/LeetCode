@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AbhayPatil2004/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbhayPatil2004/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbhayPatil2004/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AbhayPatil2004/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbhayPatil2004/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbhayPatil2004/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
