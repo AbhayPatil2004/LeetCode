@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AbhayPatil2004/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3597-partition-string](https://github.com/AbhayPatil2004/LeetCode/tree/master/3597-partition-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/AbhayPatil2004/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbhayPatil2004/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhayPatil2004/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3597-partition-string](https://github.com/AbhayPatil2004/LeetCode/tree/master/3597-partition-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/AbhayPatil2004/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
