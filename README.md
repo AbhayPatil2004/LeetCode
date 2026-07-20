@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AbhayPatil2004/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/AbhayPatil2004/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhayPatil2004/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/AbhayPatil2004/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AbhayPatil2004/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AbhayPatil2004/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AbhayPatil2004/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
+| [1260-shift-2d-grid](https://github.com/AbhayPatil2004/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AbhayPatil2004/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhayPatil2004/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/AbhayPatil2004/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AbhayPatil2004/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/AbhayPatil2004/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/AbhayPatil2004/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/AbhayPatil2004/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AbhayPatil2004/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbhayPatil2004/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhayPatil2004/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
