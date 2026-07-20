@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AbhayPatil2004/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayPatil2004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhayPatil2004/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/AbhayPatil2004/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/AbhayPatil2004/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhayPatil2004/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/AbhayPatil2004/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/AbhayPatil2004/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0216-combination-sum-iii) |
