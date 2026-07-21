@@ -1,41 +1,40 @@
 class Solution {
 public:
-    void solve( int index , int i , int j , int n , int m , vector<vector<char>>& board , string word , bool &result ){
+    bool solve( int i , int j , int n , int m , string temp , vector<vector<char>>& board, string word ,vector<vector<bool>> &visited ){
 
-        if( index == word.size() ){
-            result = true ;
-            return ;
-        }
+        if( temp == word ) return true ;
+        int lastIndex = temp.size() - 1 ;
 
-        if (i < 0 || j < 0 || i >= n || j >= m || board[i][j] != word[index] || result || board[i][j] == '#' )
-            return;
-        
-        if( !result ){
-            char temp = board[i][j];  
-            board[i][j] = '#';        
+        if( lastIndex > -1 && temp[lastIndex] != word[lastIndex] ) return false ;
+        if( i < 0 || j < 0 || i >= n || j >= m ) return false ;
 
-            
-            solve(index + 1, i - 1, j, n, m, board, word, result); 
-            solve(index + 1, i, j + 1, n, m, board, word, result); 
-            solve(index + 1, i + 1, j, n, m, board, word, result); 
-            solve(index + 1, i, j - 1, n, m, board, word, result);
+        if( visited[i][j] ) return false ;
 
-            board[i][j] = temp;
-        } 
+        temp += board[i][j] ;
+        visited[i][j] = true ;
+
+        bool right = solve( i + 1 , j , n , m , temp , board , word , visited );
+        bool down = solve( i , j + 1 , n , m , temp , board , word , visited );
+        bool left = solve( i - 1 , j , n , m , temp , board , word , visited );
+        bool up = solve( i , j - 1, n , m , temp , board , word , visited );
+
+        temp.pop_back() ;
+        visited[i][j] = false ;
+
+        return right || down || left || up ;
     }
     bool exist(vector<vector<char>>& board, string word) {
         
-        int n = board.size();
-        int m = board[0].size();
+        int n = board.size() ;
+        int m = board[0].size() ;
+        string temp = "" ;
+
+        vector<vector<bool>> visited( n , vector<bool> ( m , false ));
 
         for( int i = 0 ; i < n ; i++ ){
-            for( int j = 0 ; j < m ; j ++ ){
-                bool result = false ;
-                if( board[i][j] == word[0] ){
-                    solve( 0 , i , j , n , m , board , word , result );
-                }
+            for( int j = 0 ; j < m ; j++ ){
 
-                if( result ) return true ;
+                if( solve( i , j , n , m , temp , board , word , visited ) ) return true ;
             }
         }
 
