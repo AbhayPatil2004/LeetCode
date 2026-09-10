@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AbhayPatil2004/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AbhayPatil2004/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0874-walking-robot-simulation](https://github.com/AbhayPatil2004/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhayPatil2004/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhayPatil2004/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayPatil2004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/AbhayPatil2004/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/AbhayPatil2004/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AbhayPatil2004/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbhayPatil2004/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/AbhayPatil2004/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/AbhayPatil2004/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbhayPatil2004/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Number Theory
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhayPatil2004/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
