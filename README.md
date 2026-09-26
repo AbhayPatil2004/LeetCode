@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhayPatil2004/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/AbhayPatil2004/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayPatil2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhayPatil2004/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AbhayPatil2004/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AbhayPatil2004/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AbhayPatil2004/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/AbhayPatil2004/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhayPatil2004/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhayPatil2004/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhayPatil2004/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2784-check-if-array-is-good](https://github.com/AbhayPatil2004/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhayPatil2004/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
 | [0657-robot-return-to-origin](https://github.com/AbhayPatil2004/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhayPatil2004/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhayPatil2004/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AbhayPatil2004/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2299-strong-password-checker-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/2299-strong-password-checker-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AbhayPatil2004/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
