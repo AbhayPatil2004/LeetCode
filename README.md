@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhayPatil2004/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AbhayPatil2004/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
 | [0657-robot-return-to-origin](https://github.com/AbhayPatil2004/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayPatil2004/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AbhayPatil2004/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AbhayPatil2004/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/AbhayPatil2004/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AbhayPatil2004/LeetCode/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/AbhayPatil2004/LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/AbhayPatil2004/LeetCode/tree/master/0788-rotated-digits) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AbhayPatil2004/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhayPatil2004/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AbhayPatil2004/LeetCode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayPatil2004/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayPatil2004/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
