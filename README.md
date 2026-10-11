@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbhayPatil2004/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AbhayPatil2004/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AbhayPatil2004/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatil2004/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/AbhayPatil2004/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/AbhayPatil2004/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/AbhayPatil2004/LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AbhayPatil2004/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AbhayPatil2004/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhayPatil2004/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbhayPatil2004/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
