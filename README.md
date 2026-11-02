@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AbhayPatil2004/LeetCode/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhayPatil2004/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AbhayPatil2004/LeetCode/tree/master/0486-predict-the-winner) |
 | [0735-asteroid-collision](https://github.com/AbhayPatil2004/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/AbhayPatil2004/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayPatil2004/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AbhayPatil2004/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AbhayPatil2004/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AbhayPatil2004/LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/AbhayPatil2004/LeetCode/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbhayPatil2004/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
