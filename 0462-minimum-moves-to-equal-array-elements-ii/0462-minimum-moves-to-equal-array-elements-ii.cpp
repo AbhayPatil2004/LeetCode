@@ -6,6 +6,17 @@ public:
 
         int median = nums[nums.size()/2] ;
 
+        int diff = INT_MAX ;
+        
+        for( int i = 0 ; i < nums.size() ; i++ ){
+            if( abs( nums[i] - median ) < diff ){
+                diff = abs( nums[i] - median ) ;
+            }
+        } 
+        
+        cout << diff ;
+        median -= diff ;
+        
         int result = 0 ;
 
         for( int i = 0 ; i < nums.size() ; i++ ){
