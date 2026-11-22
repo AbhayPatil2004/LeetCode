@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayPatil2004/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhayPatil2004/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AbhayPatil2004/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AbhayPatil2004/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2299-strong-password-checker-ii](https://github.com/AbhayPatil2004/LeetCode/tree/master/2299-strong-password-checker-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AbhayPatil2004/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AbhayPatil2004/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
